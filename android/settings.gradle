@@ -1,0 +1,3 @@
+rootProject.name = 'ordermgntsys_2626'
+
+include ':app'
